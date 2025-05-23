@@ -1,4 +1,4 @@
-Credit Risk Prediction Project 
+Credit Risk Evaluation and Prediction Project 
 
 This project is about helping banks decide if someone can repay a loan or not. Normally, this takes a lot of time and can be unfair, so we used machine learning to make the process faster and smarter.
 
